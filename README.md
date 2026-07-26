@@ -304,7 +304,7 @@ Contributions are welcome! Areas for improvement:
 
 ## Citation
 
-If you use this project in research or education, please cite: Rehan Parekh
+If you use this project in research or education, please cite this repository.
 
 ## License
 
